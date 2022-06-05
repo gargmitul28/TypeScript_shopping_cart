@@ -1,6 +1,7 @@
 # TypeScript_shopping_cart
 
 ## Screenshots
+![Screenshot 1](https://user-images.githubusercontent.com/68656122/172033085-06c84d83-9834-47ea-8191-e527758c808e.png)
 
 ## Getting Started with Create React App
 
